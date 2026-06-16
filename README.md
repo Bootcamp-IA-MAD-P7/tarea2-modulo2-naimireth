@@ -165,9 +165,9 @@ Para evaluar el rendimiento de un modelo de regresión y saber qué tan precisas
 
 ## <font color="#2e6f9a">📊 12. Explicación de sus fórmulas</font>
 
-### ● $R^2$ (coeficiente de determinación):
-El $R^2$ mide qué porcentaje de la variación total de los datos es explicado por el modelo. Varía por lo general entre 0 y 1 (o de 0% a 100%).
-* **Interpretación:** Si un modelo tiene un $R^2 = 0.85$, significa que el 85% de la variabilidad de tu variable de salida se explica por las variables de entrada que elegiste. El 15% restante es ruido o se debe a factores que el modelo no conoce. Un valor cercano a 1 indica un excelente ajuste.
+### ● R^2 (coeficiente de determinación):
+El R^2 mide qué porcentaje de la variación total de los datos es explicado por el modelo. Varía por lo general entre 0 y 1 (o de 0% a 100%).
+* **Interpretación:** Si un modelo tiene un R^2 = 0.85$, significa que el 85% de la variabilidad de tu variable de salida se explica por las variables de entrada que elegiste. El 15% restante es ruido o se debe a factores que el modelo no conoce. Un valor cercano a 1 indica un excelente ajuste.
 
 ### ● MSE (Mean Squared Error)
 Es el promedio de los errores elevados al cuadrado. Mide la varianza del error del modelo.
